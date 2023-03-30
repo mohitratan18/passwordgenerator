@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    border: 0px;
+    background-color: rgb(95, 160, 190);
+}
+.center
+{
+    background-color: rgba(255, 255, 255, 0.5);
+    color: black;
+    margin-top: 180px;
+    height: 200px;
+    width: 468px;
+    margin-left: 530px;
+}
+.pass
+{
+    font-size: 24px;
+    border-radius: 6px;
+}
+.btn
+{
+    font-size: 15px;
+    border-radius: 6px;
+}
+
+
